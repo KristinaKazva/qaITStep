@@ -1,7 +1,7 @@
- const test = 'test1'
+ const test = 'test'
 
 function testRepository (a) {
 return '${a} repository '
 }
 
-testRepository(test)
+test_Repository(test)
